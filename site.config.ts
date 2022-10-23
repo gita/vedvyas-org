@@ -15,8 +15,7 @@ export default siteConfig({
   author: 'Ved Vyas Foundation',
 
   // open graph metadata (optional)
-  description:
-    'Non-profit project dedicated to making the transcendental wisdom from the Indian scriptures accessible to anyone, anywhere, anytime.',
+  description: 'Non-profit project dedicated to making the transcendental wisdom from the Indian scriptures accessible to anyone, anywhere, anytime.',
 
   // social usernames (optional)
   twitter: 'ShriKrishna',
@@ -27,8 +26,7 @@ export default siteConfig({
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
-  defaultPageIcon:
-    'https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/325/om_1f549-fe0f.png',
+  defaultPageIcon: null,
   defaultPageCover: null,
   defaultPageCoverPosition: 0.5,
 
