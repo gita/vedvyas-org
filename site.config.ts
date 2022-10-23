@@ -15,7 +15,7 @@ export default siteConfig({
   author: 'Ved Vyas Foundation',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'Non-profit project serving humankind by creating interactive digital experiences that encourage and challenge people to practice the presence of Bhagwan daily.',
 
   // social usernames (optional)
   twitter: 'ShriKrishna',
